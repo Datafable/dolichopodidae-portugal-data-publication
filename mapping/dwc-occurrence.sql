@@ -1,0 +1,3 @@
+SELECT
+  occurrenceID
+FROM occurrences
